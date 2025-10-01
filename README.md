@@ -165,4 +165,5 @@ sudo systemctl daemon-reload
 sudo systemctl enable lightrag
 sudo systemctl start lightrag
 ```
+<img width="1923" height="914" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/d33ecbbb-4bee-4324-8651-eed3faa084ca" />
 
