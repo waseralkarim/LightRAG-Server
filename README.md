@@ -1,5 +1,7 @@
 # LightRAG Server
 
+<img width="1383" height="512" alt="lightrag" src="https://github.com/user-attachments/assets/d8f43a82-b3f8-4746-bf77-ecc8d5e6e042" />
+
 The **LightRAG Server** is a web-based user interface and REST API backend designed to enable document indexing, knowledge-graph exploration, and retrieval-augmented generation (RAG) queries in a unified system.
 
 ## Setup Instructions
@@ -18,8 +20,9 @@ The **LightRAG Server** is a web-based user interface and REST API backend desig
 6. [Bare-Metal database Setup](redis-neo4j-milvus-setup.md)
 7. [Bare-Metal Setup](05-bare-metal-setup.md)
 
-### Thanks
+##  Feedback is very much appreciated
 
-Thanks for exploring and using LightRAG Server! Feel free to open issues for bugs, request features, or share your deployment experience.
+Based on the feedback this repo will be updated. Feel free to contribute or use this for your own study!
+
 
 
