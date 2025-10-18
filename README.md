@@ -2,6 +2,12 @@
 
 The **LightRAG Server** is a web-based user interface and REST API backend designed to enable document indexing, knowledge-graph exploration, and retrieval-augmented generation (RAG) queries in a unified system.
 
+## Setup Instructions
+
+- First choose which method you want go with (Kubernetes/Bare-Metal)
+- For Both method installing Redis, Neo4j and Milus are same
+- If you don't want Redis. You can configure with postgres also.
+
 ##  Table of Contents
 
 1. [Redis configuration](01-redis-setup.md)
@@ -15,4 +21,5 @@ The **LightRAG Server** is a web-based user interface and REST API backend desig
 ### Thanks
 
 Thanks for exploring and using LightRAG Server! Feel free to open issues for bugs, request features, or share your deployment experience.
+
 
