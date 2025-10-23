@@ -1,6 +1,6 @@
 # LightRAG Server
 
-<img width="1383" height="512" alt="lightrag" src="https://github.com/user-attachments/assets/d8f43a82-b3f8-4746-bf77-ecc8d5e6e042" />
+<img width="639" height="237" alt="lightrag (1)" src="https://github.com/user-attachments/assets/d864f451-27d9-4e8f-8956-3198f7512dfe" />
 
 The **LightRAG Server** is a web-based user interface and REST API backend designed to enable document indexing, knowledge-graph exploration, and retrieval-augmented generation (RAG) queries in a unified system.
 
@@ -29,6 +29,7 @@ The **LightRAG Server** is a web-based user interface and REST API backend desig
 ##  Feedback is very much appreciated
 
 Based on the feedback this repo will be updated. Feel free to contribute or use this for your own study!
+
 
 
 
